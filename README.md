@@ -1,3 +1,4 @@
-Navbar & Fotter Design
+# Navbar & Fotter Design
+
 <br>
 React
